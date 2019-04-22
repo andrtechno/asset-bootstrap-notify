@@ -29,7 +29,7 @@ or add
 
 to the require section of your `composer.json` file.
 
-Add to web config.
+Add to your view
 ```
 \panix\asset\bootstrap\notify\Asset::register($this);
 

@@ -32,4 +32,18 @@ to the require section of your `composer.json` file.
 Add to web config.
 ```
 \panix\asset\bootstrap\notify\Asset::register($this);
+
+$this->registerJs("
+    $.notify({
+        // options
+        message: 'Hello World' 
+    },{
+        // settings
+        type: 'danger'
+    });
+");
 ```
+
+### links
+* [Pixelion](https://pixelion.com.ua)
+* [Plugin and Docs](http://bootstrap-growl.remabledesigns.com)

@@ -46,4 +46,4 @@ $this->registerJs("
 
 ### links
 * [Pixelion](https://pixelion.com.ua)
-* [Plugin and Docs](http://bootstrap-growl.remabledesigns.com)
+* [Plugin Author](http://bootstrap-growl.remabledesigns.com) and [Docs](http://bootstrap-growl.remabledesigns.com)
